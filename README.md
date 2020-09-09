@@ -19,3 +19,8 @@ Arduino Library
 4. Wire (if you use Display Oled) >> https://github.com/esp8266/Arduino/tree/master/libraries/Wire
 
 Open Code in Arduino IDE and Upload
+
+# PREVIEW
+<image src="https://raw.githubusercontent.com/zailbreck/MikrotikTrafficMonitoring/master/firebase_structure.png">
+<image src="">
+<image src="">

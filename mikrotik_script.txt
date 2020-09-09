@@ -1,9 +1,9 @@
 /interface monitor-traffic ether1 once do={
 	:local rRX (rx-bits-per-second)
 	:local rTX (tx-bits-per-second)
-	:local tRX (([/interface get ether1 rx-byte])/1048576)
-	:local tTX (([/interface get ether1 tx-byte])/1048576)
+	:local tTX (([/interface get ether1 rx-byte]))
+	:local tRX (([/interface get ether1 tx-byte]))
 
-	/tool fetch mode=http url="https://<PROJECT-ID>.firebaseio.com/Mikrotik/Device_1.json" http-method=put \
+	/tool fetch mode=http url="https://mikrotikmonitoring-afa9e.firebaseio.com/Mikrotik/Device_1.json" http-method=put \
 	http-data="{\"TotalDownload\" : $tTX, \"TotalUpload\": $tRX, \"RealUpload\": $rRX, \"RealDownload\": $rTX}" keep-result=no;
 }

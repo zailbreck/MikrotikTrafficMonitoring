@@ -22,5 +22,5 @@ Open Code in Arduino IDE and Upload
 
 # PREVIEW
 <image src="https://raw.githubusercontent.com/zailbreck/MikrotikTrafficMonitoring/master/firebase_structure.png">
-<image src="">
-<image src="">
+<image src="https://raw.githubusercontent.com/zailbreck/MikrotikTrafficMonitoring/master/Preview1.jpeg">
+<image src="https://raw.githubusercontent.com/zailbreck/MikrotikTrafficMonitoring/master/Preview1.jpeg">

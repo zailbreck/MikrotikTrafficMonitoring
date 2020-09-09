@@ -12,6 +12,10 @@ Interval 00:00:01 (1 Seconds)
 On Event : Open MikrotikScript.txt
 
 # STEP IN ARDUINO / ESP8266
-Arduino Library \n
+Arduino Library 
 1. Arduino Json >> https://github.com/bblanchon/ArduinoJson
-2
+2. SSD1306 (if you use Display Oled) >> https://github.com/adafruit/Adafruit_SSD1306
+3. Adafruit GFX (if you use Display Oled) >> https://github.com/adafruit/Adafruit-GFX-Library
+4. Wire (if you use Display Oled) >> https://github.com/esp8266/Arduino/tree/master/libraries/Wire
+
+Open Code in Arduino IDE and Upload

@@ -24,3 +24,8 @@ Open Code in Arduino IDE and Upload
 <image src="https://raw.githubusercontent.com/zailbreck/MikrotikTrafficMonitoring/master/firebase_structure.png">
 <image src="https://raw.githubusercontent.com/zailbreck/MikrotikTrafficMonitoring/master/Preview2.jpeg">
 <image src="https://raw.githubusercontent.com/zailbreck/MikrotikTrafficMonitoring/master/Preview1.jpeg">
+
+# Minus 
+if Mikrotik has Rebooting , All Data Reset to 0
+
+# Open-Source
